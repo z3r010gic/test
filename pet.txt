@@ -4,5 +4,5 @@ Buffy	Harold	dog	f	1989-05-13	\N
 Fang	Benny	dog	m	1990-08-27	\N
 Bowser	Diane	dog	m	1979-08-31	1995-07-29
 Chirpy	Gwen	bird	f	1998-09-11	\N
-Whistler	Gwen	bird	\N	1997-12-09	\N
+Whistler	Gwen	bird	\N	1997-12-09
 Slim	Benny	snake	m	1996-04-29	\N
